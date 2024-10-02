@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Thomas O. Da Costa
+title: Thomas Orlando Da Costa
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Thomas Orlando
+last_name: Da Costa
 
 # Status emoji
 status:
-  icon:
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,50 +20,60 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: École Normale Supérieure
+    url: https://www.ens.psl.eu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: hero/envelope
+    url: 'mailto:thomas.da.costa@ens.psl.eu'
+    label: E-mail 
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/thomas-da-costa-6b52a519a/
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=hcNgESkAAAAJ&hl=fr
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-6983-6259 
+    label: Orcid id
+  - icon: academicons/archive
+    url: https://www.cognition.ens.fr/en
+    label: Affiliation
+  - icon: brands/github
+    url: https://github.com/t-da-costa
+    label: Github
+ 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ecological Economics
+  - Environmental Economics
+  - (Non-Linear) Physics
+  - Behavioral Sciences
 
 education:
-  - area: _Ingénieur AgroParisTech_
+  - area: *Ingénieur AgroParisTech*
     institution: AgroParisTech (Paris-Saclay University)
     date_start: 2024-09-01
     date_end: 2025-06-30
     summary: |
       MSc. in Environmental Economics along with courses taken in the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 
+      # IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: _Normalien_ 
+  - area: *Normalien*
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
     date_end: 2025-06-30
@@ -178,4 +188,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I aim to be a PhD student in Economics. I have an interdisciplinary background, ranging from physics and
+mechanics (BSc.) to economics to cognitive sciences (MSc.). My research interests build on this
+diversity and include dynamic macroeconomics or various topic in ecological economics, notably
+methods to integrate biodiversity and strong durability. I am also interested in boundedness in behavioral
+economics and uncertainty in modelling.
