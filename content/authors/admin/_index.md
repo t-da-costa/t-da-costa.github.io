@@ -57,9 +57,9 @@ education:
     date_start: 2024-09-01
     date_end: 2025-06-31
     summary: |
-    MSc. in Environmental Economics along with courses taken in the Paris School of Economics (PSE) M2 APE 
-    and the Paris XIII M2 EPOG
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      MSc. in Environmental Economics along with courses taken in the Paris School of Economics (PSE) M2 APE 
+      and the Paris XIII M2 EPOG
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,25 +68,16 @@ education:
     date_start: 2020-09-01
     date_end: 2025-06-31
     summary: |
-    MSc. in Cognitive Sciences, Minor in Environmental Sciences and public policy-oriented cursus 
-    (economics, political sciences, sociology)
-    GPA: 3.8/4.0
-
-    Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      MSc. in Cognitive Sciences, Minor in Environmental Sciences and public policy-oriented cursus 
+      (economics, political sciences, sociology)
+      GPA: 3.8/4.0
   - area: BSc. Physics & BSc. Mechanics
     institution: Sorbonne University
     date_start: 2017-09-01
     date_end: 2020-06-31
     summary: |
-      GPA: 3.4/4.0
+      # GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
