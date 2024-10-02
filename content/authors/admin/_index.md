@@ -55,7 +55,7 @@ education:
   - area: _Ingénieur AgroParisTech_
     institution: AgroParisTech (Paris-Saclay University)
     date_start: 2024-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       MSc. in Environmental Economics along with courses taken in the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG
@@ -66,7 +66,7 @@ education:
   - area: _Normalien_ 
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       MSc. in Cognitive Sciences, Minor in Environmental Sciences and public policy-oriented cursus 
       (economics, political sciences, sociology)
@@ -74,10 +74,10 @@ education:
   - area: BSc. Physics & BSc. Mechanics
     institution: Sorbonne University
     date_start: 2017-09-01
-    date_end: 2020-06-31
+    date_end: 2020-06-30
     summary: |
       # GPA: 3.4/4.0
-      
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
