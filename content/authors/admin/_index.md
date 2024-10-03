@@ -33,6 +33,7 @@ profiles:
   - icon: hero/envelope
     url: 'mailto:thomas.da.costa@ens.psl.eu'
     label: E-mail 
+
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
@@ -61,56 +62,52 @@ interests:
   - Behavioral Sciences
 
 education:
-  - area: "*Ingénieur AgroParisTech*"
+  - area: Ingénieur AgroParisTech
     institution: AgroParisTech (Paris-Saclay University)
     date_start: 2024-09-01
     date_end: 2025-06-30
     summary: |
       MSc. in Environmental Economics along with courses taken in the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG
-      # Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 
-      # IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: "*Normalien*"
+
+     # button:
+     # text: 'Read Thesis'
+     # url: 'https://example.com'
+
+  - area: Normalien
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
     date_end: 2025-06-30
     summary: |
       MSc. in Cognitive Sciences, Minor in Environmental Sciences and public policy-oriented cursus 
       (economics, political sciences, sociology)
-      GPA: 3.8/4.0
+     # GPA: 3.8/4.0
+
   - area: BSc. Physics & BSc. Mechanics
     institution: Sorbonne University
     date_start: 2017-09-01
     date_end: 2020-06-30
     summary: |
-      # GPA: 3.4/4.0
+
+    # GPA: 3.4/4.0
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Visiting Student
+    company_name: Paris School of Economics
+    company_url: 'https://www.parisschoolofeconomics.eu/'
+    company_logo: '/images/Logo_PSE.png'
+    date_start: 2024-06-01
+    date_end: 2024-09-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Under the supervision of Prof. Marc Fleurbaey
+  - position: Visiting Student
+    company_name: Georgetown Environmental Justice Program
+    company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
+    company_logo: '/images/logo_GU_EJP.png'
+    date_start: 2023-04-01
+    date_end: 2023-09-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
