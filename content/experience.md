@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '1rem'
+  spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -26,8 +26,7 @@ sections:
       buttons:
         - text: All the courses I've taken
           icon: hero/academic-cap
-          url: static/uploads/Listes_cours.pdf
-
+          url: uploads/Listes_cours.pdf
 
   #- block: resume-skills
   #  content:
