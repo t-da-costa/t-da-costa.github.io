@@ -27,6 +27,9 @@ sections:
         - text: All the courses I've taken
           icon: hero/academic-cap
           url: uploads/Listes_cours.pdf
+    design:
+      spacing:
+        padding-top: 1rem
 
   #- block: resume-skills
   #  content:
