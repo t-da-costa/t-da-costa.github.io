@@ -13,9 +13,6 @@ sections:
   - block: resume-experience
     content:
       username: admin
-      button:
-        text: All courses taken 
-        url: uploads/Listes_cours.pdf
     design:
       # Hugo date format
       date_format: 'January 2006'
