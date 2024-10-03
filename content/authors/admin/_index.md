@@ -189,7 +189,7 @@ work:
 ## About Me
 
 I aim to be a PhD student in Economics. I have an interdisciplinary background, ranging from physics and
-mechanics (BSc.) to economics to cognitive sciences (MSc.). My research interests build on this
+mechanics (BSc.) to economics and cognitive sciences (MSc.). My research interests build on this
 diversity and include dynamic macroeconomics or various topic in ecological economics, notably
 methods to integrate biodiversity and strong durability. I am also interested in boundedness in behavioral
 economics and uncertainty in modelling.
