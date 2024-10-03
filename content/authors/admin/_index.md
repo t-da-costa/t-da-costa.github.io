@@ -61,7 +61,7 @@ interests:
   - Behavioral Sciences
 
 education:
-  - area: *Ingénieur AgroParisTech*
+  - area: "*Ingénieur AgroParisTech*"
     institution: AgroParisTech (Paris-Saclay University)
     date_start: 2024-09-01
     date_end: 2025-06-30
@@ -73,7 +73,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: *Normalien*
+  - area: "*Normalien*"
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
     date_end: 2025-06-30
