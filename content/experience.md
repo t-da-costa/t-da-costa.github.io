@@ -19,7 +19,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
       spacing:
-        margin-bottom: - 3 rem
+        margin-bottom: 0 rem
 
   - block: cta-button-list
     content:
@@ -31,7 +31,7 @@ sections:
           url: uploads/Listes_cours.pdf
     design:
       spacing:
-        margin-top: - 1 rem
+        margin-top: 0 rem
 
   #- block: resume-skills
   #  content:
