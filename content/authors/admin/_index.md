@@ -95,7 +95,7 @@ work:
   - position: Visiting Student
     company_name: Paris School of Economics
     company_url: 'https://www.parisschoolofeconomics.eu/'
-    company_logo: '/images/Logo_PSE.png'
+    company_logo: 'uploads/images/Logo_PSE.png'
     date_start: 2024-06-01
     date_end: 2024-09-01
     summary: |2-
@@ -103,7 +103,7 @@ work:
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
-    company_logo: '/images/logo_GU_EJP.png'
+    company_logo: 'uploads/images/logo_GU_EJP.png'
     date_start: 2023-04-01
     date_end: 2023-09-01
     summary: |

@@ -46,7 +46,7 @@ sections:
   #    columns: '1'
 
   #- block: collection
-  #  id: papers
+  #  id: research
   #  content:
   #    title: Featured Publications
   #    filters:

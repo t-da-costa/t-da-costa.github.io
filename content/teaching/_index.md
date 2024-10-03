@@ -10,14 +10,19 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
-    id: teaching
+  - block: markdown
     content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+      # title: Teaching
+      # subtitle: My subtitle
+      text: Nope, not yet! :)
+  # - block: collection
+  #  id: teaching
+  #  content:
+  #    title: Teaching
+  #    filters:
+  #      folders:
+  #        - teaching
+  #  design:
+  #    view: article-grid
+  #    columns: 2
 ---
