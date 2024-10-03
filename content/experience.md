@@ -18,6 +18,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+
+  - block: cta-button-list
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: All the courses I have taken
+          icon: hero/academic-cap
+          url: uploads/Listes_cours.pdf
+
   #- block: resume-skills
   #  content:
   #    title: Skills & Hobbies
