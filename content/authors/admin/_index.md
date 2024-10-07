@@ -70,6 +70,11 @@ education:
       "Ingénieur AgroParisTech" cursus, in parallel with courses taken at the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG.
 
+      M1 : <div style="display: flex; gap: 10px;">
+      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
+      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
+      </div>
+
   - area: MSc. in Cognitive Sciences 
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
@@ -77,7 +82,10 @@ education:
     summary: |
       Normalien, Minor in Environmental Sciences and public policy-oriented cursus 
       (economics, political sciences, sociology).
-     # GPA: 3.8/4.0
+
+      M2 : <div style="display: flex; gap: 10px;">
+      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Mémoire.pdf">Thesis (in French)</a>
+      </div>
 
   - area: BSc. Physics & BSc. Mechanics
     institution: Sorbonne University
@@ -95,11 +103,6 @@ work:
     date_end: 2024-09-01
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
-      <div style="display: flex; gap: 10px;">
-      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
-      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
-      </div>
-
 
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
@@ -109,10 +112,6 @@ work:
     date_end: 2023-09-01
     summary: |
       Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD).
-
-    button:
-      text: 'Thesis (in French)'
-      url: '/documents/Da_Costa_Thomas_Mémoire.pdf'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
