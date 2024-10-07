@@ -95,13 +95,11 @@ work:
     date_end: 2024-09-01
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
-
+      
     button:
       text: 'Slides'
       url: 'documents/Da_Costa_Thomas_Defense_PSE.pdf'
-
-    button:
-      text: 'Thesis (in French)'
+      text: 'Thesis'
       url: 'documents/Da_Costa_Thomas_Thesis_PSE.pdf'
 
   - position: Visiting Student
