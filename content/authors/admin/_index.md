@@ -96,8 +96,8 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
       <div style="display: flex; gap: 10px;">
-        <a class="btn" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Slides</a>
-        <a class="btn" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Thesis</a>
+        <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
+        <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
       </div>
 
 
