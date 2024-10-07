@@ -21,7 +21,7 @@ sections:
           url: /documents/Listes_cours.pdf
     design:
       spacing:
-        margin-top: 0rem
+        margin-bottom: -5rem
 
   - block: resume-experience
     content:
@@ -32,7 +32,7 @@ sections:
       # Education or Experience section first?
       is_education_first: true
       spacing:
-        margin-bottom: 0rem
+        margin-top: -2rem
 
   #- block: resume-skills
   #  content:
