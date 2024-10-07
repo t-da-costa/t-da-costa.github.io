@@ -98,11 +98,11 @@ work:
 
     button:
       text: 'Slides'
-      url: 'documents/Da_Costa_Thomas_Defense_PSE.pdf'
+      url: documents/Da_Costa_Thomas_Defense_PSE.pdf
     
     button:
       text: 'Thesis'
-      url: 'documents/Da_Costa_Thomas_Thesis_PSE.pdf'
+      url: documents/Da_Costa_Thomas_Thesis_PSE.pdf
 
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
