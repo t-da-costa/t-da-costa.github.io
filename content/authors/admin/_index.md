@@ -90,24 +90,29 @@ work:
   - position: Visiting Student
     company_name: Paris School of Economics
     company_url: 'https://www.parisschoolofeconomics.eu/'
-    company_logo: 'uploads/images/Logo_PSE.png'
+    company_logo: '/uploads/images/Logo_PSE.png'
     date_start: 2024-06-01
     date_end: 2024-09-01
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
+      <div style="display: flex; gap: 10px;">
+        <a class="btn" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Slides</a>
+        <a class="btn" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">Thesis</a>
+      </div>
 
-    button:
-      text: 'Slides'
-      url: /documents/Da_Costa_Thomas_Defense_PSE.pdf
+
+    # button:
+    #   text: 'Slides'
+    #   url: /documents/Da_Costa_Thomas_Defense_PSE.pdf
     
-    button:
-      text: 'Thesis'
-      url: /documents/Da_Costa_Thomas_thesis_PSE.pdf
+    # button:
+    #   text: 'Thesis'
+    #   url: /documents/Da_Costa_Thomas_thesis_PSE.pdf
 
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
-    company_logo: 'uploads/images/logo_GU_EJP.png'
+    company_logo: '/uploads/images/logo_GU_EJP.png'
     date_start: 2023-04-01
     date_end: 2023-09-01
     summary: |
