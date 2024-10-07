@@ -46,7 +46,7 @@ profiles:
     label: Google Scholar
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-6983-6259 
-    label: Orcid id
+    label: ORCiD
   - icon: academicons/archive
     url: https://www.cognition.ens.fr/en
     label: Affiliation
@@ -69,14 +69,6 @@ education:
     summary: |
       "Ingénieur AgroParisTech" cursus, in parallel with courses taken at the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG.
-
-    button:
-     text: 'Thesis'
-     url: 'https://example.com'
-
-    button: 
-      text: 'Slides'
-      url: 'https://trying.com'
 
   - area: MSc. in Cognitive Sciences 
     institution: École Normale Supérieure (PSL University)
@@ -103,6 +95,13 @@ work:
     date_end: 2024-09-01
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
+
+    buttons:
+      text: Slides
+      icon: hero/presentation-chart-bar
+      url: documents/Da_Costa_Thomas_Defense_PSE.pdf
+
+
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
