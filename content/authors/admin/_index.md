@@ -98,7 +98,7 @@ education:
       Summa cum laude.
 
 work:
-  - position: Visiting Student
+  - position: Intern
     company_name: Paris School of Economics
     company_url: 'https://www.parisschoolofeconomics.eu/'
     company_logo: /uploads/images/Logo_PSE.png

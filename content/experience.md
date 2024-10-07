@@ -10,16 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-      spacing:
-        margin-bottom: -1rem
 
   - block: cta-button-list
     content:
@@ -31,7 +21,18 @@ sections:
           url: /documents/Listes_cours.pdf
     design:
       spacing:
-        margin-top: -1rem
+        margin-top: 0rem
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+      spacing:
+        margin-bottom: 0rem
 
   #- block: resume-skills
   #  content:
