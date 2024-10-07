@@ -96,17 +96,10 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
       <div class="btn-container">
-      <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
-      <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
+      {{< button text="Slides" url="/documents/Da_Costa_Thomas_Defense_PSE.pdf" >}}
+      {{< button text="Thesis" url="/documents/Da_Costa_Thomas_thesis_PSE.pdf" >}}
       </div>
 
-    # button:
-    #   text: 'Slides'
-    #   url: /documents/Da_Costa_Thomas_Defense_PSE.pdf
-    
-    # button:
-    #   text: 'Thesis'
-    #   url: /documents/Da_Costa_Thomas_thesis_PSE.pdf
 
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
