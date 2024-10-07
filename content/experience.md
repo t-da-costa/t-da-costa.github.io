@@ -28,7 +28,7 @@ sections:
       buttons:
         - text: All the courses I've taken
           icon: hero/academic-cap
-          url: uploads/Listes_cours.pdf
+          url: documents/Listes_cours.pdf
     design:
       spacing:
         margin-top: 0 rem
