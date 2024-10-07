@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '3 rem'
+  spacing: '3rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -19,7 +19,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
       spacing:
-        margin-bottom: 0 rem
+        margin-bottom: 1rem
 
   - block: cta-button-list
     content:
@@ -28,10 +28,10 @@ sections:
       button:
         - text: All the courses I've taken
           icon: hero/academic-cap
-          url: documents/Listes_cours.pdf
+          url: /documents/Listes_cours.pdf
     design:
       spacing:
-        margin-top: 0 rem
+        margin-top: 1rem
 
   #- block: resume-skills
   #  content:
