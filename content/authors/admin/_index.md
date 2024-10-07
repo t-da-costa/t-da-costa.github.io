@@ -96,9 +96,11 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
 
-    buttons:
+    button:
       text: 'Slides'
       url: 'documents/Da_Costa_Thomas_Defense_PSE.pdf'
+    
+    button:
       text: 'Thesis'
       url: 'documents/Da_Costa_Thomas_Thesis_PSE.pdf'
 
