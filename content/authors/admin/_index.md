@@ -96,7 +96,7 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
 
-    buttons:
+    button:
       text: 'Slides'
       icon: 'hero/presentation-chart-bar'
       url: 'documents/Da_Costa_Thomas_Defense_PSE.pdf'
