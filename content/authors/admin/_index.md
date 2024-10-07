@@ -90,7 +90,7 @@ education:
       </div>
 
 
-  - area: BSc. Physics & BSc. Mechanics
+  - area: BSc. in Physics & BSc. in Mechanics
     institution: Sorbonne University
     date_start: 2017-09-01
     date_end: 2020-06-30
@@ -216,5 +216,5 @@ work:
 I aim to be a PhD student in Economics. I have an interdisciplinary background, ranging from physics and
 mechanics (BSc.) to economics and cognitive sciences (MSc.). My research interests build on this
 diversity and include dynamic macroeconomics or various topic in ecological economics, notably
-methods to integrate biodiversity and strong durability. I am also interested in boundedness in behavioral
+methods to integrate biodiversity and strong durability into models. I am also interested in boundedness in behavioral
 economics and uncertainty in modelling.
