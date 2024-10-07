@@ -121,7 +121,7 @@ work:
     company_url: 'https://parisbraininstitute.org/'
     company_logo: 
     date_start: 2021-09-20
-    date_end: 2021-05-01
+    date_end: 2022-05-01
     summary: |
       Under the supervision of Liane Schmidt (INSERM).
 
