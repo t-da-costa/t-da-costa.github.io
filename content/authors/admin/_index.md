@@ -70,9 +70,10 @@ education:
       "Ingénieur AgroParisTech" cursus, in parallel with courses taken at the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG.
 
-      M1 : <div style="display: flex; gap: 10px;">
-      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
-      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span>M1:</span>
+        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
+        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
       </div>
 
   - area: MSc. in Cognitive Sciences 
@@ -83,9 +84,11 @@ education:
       Normalien, Minor in Environmental Sciences and public policy-oriented cursus 
       (economics, political sciences, sociology).
 
-      M2 : <div style="display: flex; gap: 10px;">
-      <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Mémoire.pdf">Thesis (in French)</a>
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <span>M2:</span>
+        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Mémoire.pdf">Thesis (in French)</a>
       </div>
+
 
   - area: BSc. Physics & BSc. Mechanics
     institution: Sorbonne University
