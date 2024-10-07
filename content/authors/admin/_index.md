@@ -72,8 +72,8 @@ education:
 
       <div style="display: flex; align-items: center; gap: 10px;">
         <span>M1:</span>
-        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
         <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
+        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
       </div>
 
   - area: MSc. in Cognitive Sciences 
@@ -86,7 +86,7 @@ education:
 
       <div style="display: flex; align-items: center; gap: 10px;">
         <span>M2:</span>
-        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_Mémoire.pdf">Thesis (in French)</a>
+        <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_GEJP.pdf">Thesis (in French)</a>
       </div>
 
 
@@ -107,7 +107,7 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
 
-  - position: Visiting Student
+  - position: Intern
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
     company_logo: /uploads/images/logo_GU_EJP.png
@@ -115,6 +115,24 @@ work:
     date_end: 2023-09-01
     summary: |
       Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD).
+
+  - position: Intern
+    company_name: Paris Brain Institute
+    company_url: 'https://parisbraininstitute.org/'
+    company_logo: 
+    date_start: 2021-09-20
+    date_end: 2021-05-01
+    summary: |
+      Under the supervision of Liane Schmidt (INSERM).
+
+  - position: Intern
+    company_name: Laboratoire de Physique des Plasmas
+    company_url: 'https://www.lpp.polytechnique.fr/?lang=en'
+    company_logo: 
+    date_start: 2019-06-15
+    date_end: 2019-08-01
+    summary: |
+      Under the supervision of Matthieu Berthomier (CNRS).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
