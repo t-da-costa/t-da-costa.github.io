@@ -98,9 +98,11 @@ work:
 
     button:
       text: 'Slides'
-      icon: 'hero/presentation-chart-bar'
       url: 'documents/Da_Costa_Thomas_Defense_PSE.pdf'
 
+    button:
+      text: 'Thesis (in French)'
+      url: 'documents/Da_Costa_Thomas_Thesis_PSE.pdf'
 
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
@@ -110,6 +112,10 @@ work:
     date_end: 2023-09-01
     summary: |
       Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD).
+
+    button:
+      text: 'Thesis (in French)'
+      url: 'documents/Da_Costa_Thomas_Thesis_GEJP.pdf'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
