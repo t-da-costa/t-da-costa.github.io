@@ -70,9 +70,13 @@ education:
       "Ingénieur AgroParisTech" cursus, in parallel with courses taken at the Paris School of Economics (PSE) M2 APE 
       and the Paris XIII M2 EPOG.
 
-     # button:
-     # text: 'Read Thesis'
-     # url: 'https://example.com'
+    button:
+     text: 'Thesis'
+     url: 'https://example.com'
+
+    button: 
+      text: 'Slides'
+      url: 'https://trying.com'
 
   - area: MSc. in Cognitive Sciences 
     institution: École Normale Supérieure (PSL University)
@@ -88,8 +92,7 @@ education:
     date_start: 2017-09-01
     date_end: 2020-06-30
     summary: |
-
-    # GPA: 3.4/4.0
+      Summa cum laude.
 
 work:
   - position: Visiting Student
@@ -99,7 +102,7 @@ work:
     date_start: 2024-06-01
     date_end: 2024-09-01
     summary: |2-
-      Under the supervision of Prof. Marc Fleurbaey.
+      Under the supervision of Prof. Marc Fleurbaey (CNRS).
   - position: Visiting Student
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
@@ -107,7 +110,7 @@ work:
     date_start: 2023-04-01
     date_end: 2023-09-01
     summary: |
-      Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD)
+      Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

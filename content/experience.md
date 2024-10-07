@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3 rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -25,7 +25,7 @@ sections:
     content:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
-      buttons:
+      button:
         - text: All the courses I've taken
           icon: hero/academic-cap
           url: documents/Listes_cours.pdf
