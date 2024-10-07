@@ -64,7 +64,7 @@ interests:
 education:
   - area: MSc. in Environmental Economics 
     institution: AgroParisTech (Paris-Saclay University)
-    date_start: 2024-09-01
+    date_start: 2023-09-01
     date_end: 2025-06-30
     summary: |
       "Ingénieur AgroParisTech" cursus, in parallel with courses taken at the Paris School of Economics (PSE) M2 APE 
@@ -95,11 +95,10 @@ work:
     date_end: 2024-09-01
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
-      <div style="display: flex; gap: 10px;">
-        <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
-        <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
+      <div class="btn-container">
+      <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_Defense_PSE.pdf">Slides</a>
+      <a class="btn btn-primary" href="/documents/Da_Costa_Thomas_thesis_PSE.pdf">Thesis</a>
       </div>
-
 
     # button:
     #   text: 'Slides'

@@ -25,7 +25,7 @@ sections:
     content:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
-      button:
+      buttons:
         - text: All the courses I've taken
           icon: hero/academic-cap
           url: /documents/Listes_cours.pdf
