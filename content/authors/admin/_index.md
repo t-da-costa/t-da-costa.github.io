@@ -89,7 +89,6 @@ education:
         <a class="btn btn-outline-success" href="/documents/Da_Costa_Thomas_thesis_GEJP.pdf">Thesis (in French)</a>
       </div>
 
-
   - area: BSc. in Physics & BSc. in Mechanics
     institution: Sorbonne University
     date_start: 2017-09-01
