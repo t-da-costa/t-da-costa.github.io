@@ -18,7 +18,7 @@ sections:
       buttons:
         - text: All the courses I've taken
           icon: hero/academic-cap
-          url: /documents/Listes_cours.pdf
+          url: /documents/Listes_cours.pdf # English version
     design:
       spacing:
         margin-bottom: -5rem
