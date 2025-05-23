@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: purple  # Options: emerald, blue, red, green, yellow, pink, purple, orange, teal, cyan, indigo, gray
+  color: purple  # Options: emerald, blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc
 
 # SEO
 marketing:
