@@ -19,14 +19,14 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: text-black
+      css_class: dark #text-black
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
           filename: bg-hue.svg #stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
