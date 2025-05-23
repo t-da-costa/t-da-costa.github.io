@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-          text_color_light: false
 
   #- block: collection
   #  content:
