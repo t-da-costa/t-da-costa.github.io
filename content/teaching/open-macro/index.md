@@ -14,7 +14,6 @@ image:
 ---
 
 Spring 2025 : Tutorials in Open Macroeconomics, [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/), Undergraduate level.
-
 Teaching Assistant to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.

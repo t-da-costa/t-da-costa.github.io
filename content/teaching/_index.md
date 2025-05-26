@@ -16,13 +16,13 @@ sections:
   #     # subtitle: My subtitle
   #     text: Nope, not yet! :)
   - block: collection
-   id: teaching
-   content:
+    id: teaching
+    content:
      title: Teaching
      filters:
        folders:
          - teaching
-   design:
+    design:
      view: article-grid
      columns: 2
 ---
