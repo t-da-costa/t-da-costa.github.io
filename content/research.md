@@ -17,7 +17,7 @@ sections:
         folders:
           - publication           # fetch pages under content/publication/
     design:
-      view: citation               # compact / citation / list
+      view: citation              # compact / citation / list
       columns: "1"                # one column layout
 
   # (Optional) keep your Working papers markdown block
@@ -25,5 +25,5 @@ sections:
     id: working-papers
     content:
       title: "Working papers"
-      text: "Idem."
+      text: "Incoming."
 ---
