@@ -6,7 +6,7 @@ authors:
 - Orphee Morlaas
 - Hugo Bottemanne
 - Lisa Thonon
-- **Thomas Da Costa**
+- admin
 - Phillipe Fossati
 - Liane Schmidt
 date: '2025-05-12'

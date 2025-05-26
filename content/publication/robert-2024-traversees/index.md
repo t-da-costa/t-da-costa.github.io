@@ -9,7 +9,7 @@ authors:
 - Pierre Benoit
 - Colette Bertrand
 - Amélie Bourceret
-- **Thomas Da Costa**
+- admin
 - Magali Dahirel
 - Christian Fournier
 - 'others'
