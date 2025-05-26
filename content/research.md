@@ -17,8 +17,8 @@ sections:
         folders:
           - publication           # fetch pages under content/publication/
     design:
-      view: List              # compact / citation / list
-      # columns: "1"                # one column layout
+      view: list              # compact / citation / list
+      columns: "1"                # one column layout
 
   # (Optional) keep your Working papers markdown block
   - block: markdown
