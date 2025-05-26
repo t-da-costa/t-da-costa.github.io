@@ -14,7 +14,7 @@ image:
 ---
 
 Spring 2025 : 
-- Tutorials in Open Macroeconomics, [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/), Undergraduate level.
+Tutorials in Open Macroeconomics, [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/), Undergraduate level.
 
 Teaching Assistant to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
 
