@@ -97,6 +97,16 @@ education:
       Summa cum laude.
 
 work:
+
+  - position: Intern
+    company_name: Organization for Economic Co-operation and Development (OECD)
+    company_url: 'https://www.oecd.org/'
+    company_logo: /uploads/images/oecd-logo.JPG
+    date_start: 2025-03-31
+    date_end: 2025-08-31
+    summary: |2-
+      Under the supervision of Fabrice Murtin (Centre on Well-Being, Inclusion, Sustainability and Equal Opportunities — WISE).
+
   - position: Intern
     company_name: Paris School of Economics
     company_url: 'https://www.parisschoolofeconomics.eu/'
