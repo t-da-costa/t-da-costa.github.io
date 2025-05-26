@@ -7,7 +7,7 @@ authors:
 - Hugo Bottemanne
 - Lisa Thonon
 - admin
-- Phillipe Fossati
+- Phillippe Fossati
 - Liane Schmidt
 date: '2025-05-12'
 publishDate: '2025-05-26T07:48:33.644195Z'

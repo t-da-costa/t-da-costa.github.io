@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: bg-hue.svg #stacked-peaks.svg
           filters:
-            brightness: 0.5
+            brightness: 0.65
           size: cover
           position: center
           parallax: false

@@ -99,7 +99,7 @@ education:
 work:
 
   - position: Intern
-    company_name: Organization for Economic Co-operation and Development (OECD)
+    company_name: Organisation for Economic Co-operation and Development (OECD)
     company_url: 'https://www.oecd.org/'
     company_logo: /uploads/images/oecd-logo.JPG
     date_start: 2025-03-31

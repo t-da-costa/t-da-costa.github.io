@@ -12,7 +12,7 @@ authors:
 - admin
 - Magali Dahirel
 - Christian Fournier
-- 'others'
+- 'et al.'
 date: '2024-10-08'
 publishDate: '2025-05-26T07:48:33.653497Z'
 publication_types:
