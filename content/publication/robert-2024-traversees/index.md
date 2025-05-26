@@ -12,7 +12,7 @@ authors:
 - admin
 - Magali Dahirel
 - Christian Fournier
-- 'et al.'
+- et al.
 date: '2024-10-08'
 publishDate: '2025-05-26T07:48:33.653497Z'
 publication_types:
@@ -20,7 +20,7 @@ publication_types:
 publication: '*Innovations Agronomiques*'
 abstract: The aim of the TRAVERSÉES project is to identify pesticide use reduction trajectories in response to various territorial levers. For this, we undertook (1) an analysis of the ecological, economic, social, institutional and individual factors influencing changes in phytosanitary practices, which fed into (2) the development of a socio-ecosystem model simulating trajectories of practices in territories, which in turn served as a tool for (3) foresight work with various stakeholders in the Barrois region (Grand-Est). A variety of methods and a trans-disciplinary partnership were used in this project. The project led to the emergence of multiple and original proposals for territorial actions. It revealed a multiplicity of factors considered by farmers, associated with a diversity of levels of sensitivity to these factors.
 
-summary: A vast project in which I participated, financed by the Ministries of Agriculture, the Environment, Health and Research, to phase out the use of pesticides.
+summary: A vast project in which I participated, financed by the French Ministries of Agriculture, Health, the Environment, and Research, to phase out the use of pesticides.
 
 doi: 10.17180/ciag-2024-vol96-art03
 

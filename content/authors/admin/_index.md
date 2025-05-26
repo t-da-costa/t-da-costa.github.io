@@ -79,10 +79,10 @@ education:
   - area: MSc. in Cognitive Sciences 
     institution: École Normale Supérieure (PSL University)
     date_start: 2020-09-01
-    date_end: 2025-06-30
+    date_end: 2026-06-30
     summary: |
       Normalien, Minor in Environmental Sciences and public policy-oriented cursus 
-      (economics, political sciences, sociology).
+      (economics, political sciences, sociology). MSc. between 2021 and 2023.
 
       <div style="display: flex; align-items: center; gap: 10px;">
         <span>M2:</span>
