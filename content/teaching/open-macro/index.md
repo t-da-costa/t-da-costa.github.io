@@ -1,6 +1,6 @@
 ---
-title: Open Macroeconomics
-summary: An undergraduates course on the Mundell-Fleming model
+title: Macroeconomics (Open Economy)
+summary: Spring 2025. Undergraduate Level. A course on the Mundell-Fleming model.
 date: 2025-02-20
 math: true
 authors:
@@ -10,131 +10,20 @@ tags:
   - Course
   - Undergraduates
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
+  placement: false
 ---
 
-Spring 2025 : Tutorials in Open Macroeconomics, [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/), Undergraduate level.
-Teaching Assistant to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
+Tutorials in Macroeconomics (Open Economy), at [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/). I was a teaching assistant (TA) to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+## Course outline
+The aim of the course is to **analyze the impact of opening up trade with the rest of the world**, both on macroeconomic equilibrium conditions and on the potential effectiveness of fiscal, monetary and exchange rate policies. Analytically, the course is based on the IS/LM model in an open economy (Mundell-Fleming model).
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+1 - Analytical framework.
+2 - Equilibrium conditions.
+3 - Effect of fiscal policy.
+4 - Effect of monetary policy & devaluation.
+5 - A model with two large, interdependent countries.
+6 - Effect of exchange rate policy.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
-**Youtube**:
-
-    {{</* youtube D2vj0WcvH5c */>}}
-
-{{< youtube D2vj0WcvH5c >}}
-
-**Bilibili**:
-
-    {{</* bilibili BV1WV4y1r7DF */>}}
-
-{{< bilibili BV1WV4y1r7DF >}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
-
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
-
-    {{</* audio src="ambient-piano.mp3" */>}}
-
-Try it out:
-
-{{< audio src="ambient-piano.mp3" >}}
-
-## Test students
-
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
-
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
-
-renders as
-
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
-
-## Math
-
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
-
-```yaml
-features:
-  math:
-    enable: true
-```
-
-To render _inline_ or _block_ math, wrap your LaTeX math with `$...$` or `$$...$$`, respectively.
-
-Example **math block**:
-
-```latex
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-```
-
-renders as
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-```
-
-renders as
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
-
-
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
-
-renders as
-
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
-
-## Inline Images
-
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+## Documents
