@@ -11,7 +11,7 @@ tags:
   - Undergraduates
 image:
   caption: ''
-  placement: false
+  preview_only: true
 ---
 
 Tutorials in Macroeconomics (Open Economy), at [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/). I was a teaching assistant (TA) to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
@@ -35,12 +35,15 @@ Below are some personal, password-protected slides, in French.
 - <div style="display: flex; align-items: center; gap: 10px;">
         <a class="btn btn-outline-success" href="/documents/courses-doc/open-macroeconomics/slides-TD2_protected.pdf"> From IS-LM to Mundell-Fleming </a>
 </div>
+
 - <div style="display: flex; align-items: center; gap: 10px;">
         <a class="btn btn-outline-success" href="/documents/courses-doc/open-macroeconomics/slides-TD3_protected.pdf"> Effects of fiscal policies in Mundell-Fleming </a>
 </div>
+
 - <div style="display: flex; align-items: center; gap: 10px;">
         <a class="btn btn-outline-success" href="/documents/courses-doc/open-macroeconomics/slides-TD4_protected.pdf"> Effects of monetary policies in Mundell-Fleming </a>
 </div>
+
 - <div style="display: flex; align-items: center; gap: 10px;">
         <a class="btn btn-outline-success" href="/documents/courses-doc/open-macroeconomics/seance-5-avec-wooclap_protected.pdf"> Collaborative mid-term correction </a>
 </div>
