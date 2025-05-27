@@ -1,6 +1,6 @@
 ---
 title: Macroeconomics (Open Economy)
-summary: Spring 2025 - Undergraduate Level - Paris 1 Panthéon-Sorbonne.
+summary: Spring 2025. Undergraduate Level. Paris 1 Panthéon-Sorbonne.
 date: 2025-02-20
 math: true
 authors:
