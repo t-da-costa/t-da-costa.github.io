@@ -222,7 +222,7 @@ work:
 
 ## Welcome on this page!
 
-**I am currently a visiting research student in the [Levin Lab](https://slevin.princeton.edu/), at Princeton University, as a [Jane Eliza Procter Fellow](https://gradschool.princeton.edu/admission-onboarding/nondegree-programs/visiting-students/procter-visiting-fellowships).**
+I am currently a **visiting research student** in the [Levin Lab](https://slevin.princeton.edu/), at **Princeton University**, as a [Jane Eliza Procter Fellow](https://gradschool.princeton.edu/admission-onboarding/nondegree-programs/visiting-students/procter-visiting-fellowships).
 
 I have an interdisciplinary background, ranging from **physics** and
 **mechanics** (BSc.) to **economics** and **cognitive sciences** (MSc.). My research interests build on this diversity and include dynamic macroeconomics or various topics in ecological economics, notably methods to integrate biodiversity and strong durability into models. I am also interested in boundedness in behavioral economics and uncertainty in modelling.
