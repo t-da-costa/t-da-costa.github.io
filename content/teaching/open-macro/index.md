@@ -14,10 +14,14 @@ image:
   preview_only: true
 ---
 
+<p align="justify">
 Tutorials on the Mundell-Fleming model, at [Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/). I was a teaching assistant (TA) to [Delphine Brochard](https://www.pantheonsorbonne.fr/page-perso/Delphine.Brochard@), 12 hours.
+</p>
 
 ## Course outline
+<p align="justify">
 The aim of the course is to **analyze the impact of opening up trade with the rest of the world**, both on macroeconomic equilibrium conditions and on the potential effectiveness of fiscal, monetary and exchange rate policies. Analytically, the course is based on the IS/LM model in an open economy (Mundell-Fleming model).
+</p>
 
 1. Analytical framework.
 2. Equilibrium conditions.
@@ -28,7 +32,7 @@ The aim of the course is to **analyze the impact of opening up trade with the re
 
 ## Documents
 
-Below are some personal, password-protected slides in French. 
+Below are some personal, password-protected slides in French.
 
 [comment]: # (Password: OM2025)
 

@@ -16,8 +16,8 @@ sections:
   #     text: One day this page will be updated with some past projects or work in progress I currently have.
   - block: collection
     content:
-     title: Some Projects
-     text: A list of selected projects done during my bachelors or masters; most of them are in English. 
+     title: Miscellaneous Projects
+     text: A list of selected projects done during my bachelors or masters. 
      filters:
        folders:
        - project
