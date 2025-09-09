@@ -1,5 +1,5 @@
 ---
-title:  Measuring 'nature': between biology and social sciences
+title:  "Measuring 'nature': between biology and social sciences"
 summary: In French. Masters work.
 date: 2025-02-05
 math: true

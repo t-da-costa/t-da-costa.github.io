@@ -17,7 +17,7 @@ sections:
   - block: collection
     content:
      title: Miscellaneous Projects
-     text: A list of selected projects done during my bachelors or masters. 
+     text: A list of selected works done during my bachelors or masters. 
      filters:
        folders:
        - project
