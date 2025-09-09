@@ -1,0 +1,31 @@
+{{/*
+  Shortcode: pdf
+  Usage: {{< pdf src="/uploads/Da_Costa-rubber_band_fridge.pdf" height="900" title="Rubber Band Fridge" >}}
+  Params:
+    - src:    required, path to the PDF (e.g., /uploads/file.pdf or page-relative)
+    - height: optional, iframe height in px (default: 800)
+    - title:  optional, iframe title attribute
+*/}}
+{{ $src := .Get "src" }}
+{{ $height := .Get "height" | default "800" }}
+{{ $title := .Get "title" | default "PDF document" }}
+
+{{ if not $src }}
+  <p style="color:#b91c1c">[pdf] Missing required parameter: src</p>
+{{ else }}
+  <div class="hb-pdf-embed" style="margin: 1rem 0;">
+    <iframe
+      src="{{ $src }}"
+      title="{{ $title }}"
+      width="100%"
+      height="{{ $height }}"
+      style="border:1px solid var(--hb-border-color, #e5e7eb); border-radius: 8px;">
+    </iframe>
+    <div style="margin-top: 0.5rem; font-size: 0.95rem;">
+      <a href="{{ $src }}" target="_blank" rel="noopener">Open PDF in new tab</a>
+      <span aria-hidden="true"> · </span>
+      <a href="{{ $src }}" download>Download</a>
+    </div>
+  </div>
+{{ end }}
+
