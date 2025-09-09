@@ -1,5 +1,5 @@
 ---
-title:  The effect of global university rankings on higher education policies.
+title:  Effect of global university rankings on higher education policies
 summary: In French. 
 date: 2025-01-14
 math: true
