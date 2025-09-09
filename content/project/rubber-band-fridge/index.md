@@ -14,4 +14,4 @@ image:
   preview_only: true
 ---
 
-{{< pdf src="/documents/Da_Costa-rubber_band_fridge.pdf" height="900" title="Rubber Bands Refrigerator" >}}
+{{< pdf src="/documents/DA_COSTA-rubber_band_fridge.pdf" height="900" title="Rubber Bands Refrigerator" >}}
