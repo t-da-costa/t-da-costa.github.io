@@ -14,9 +14,11 @@ image:
   preview_only: true
 ---
 
-I studied an alternative to current refrigeration machines: elastocaloric cooling, induced by the application of stress on an elastomeric material. Based on theoretical considerations and a reference prototype, an entropic study based on the conformations of monomer chains aimed to predict the behavior of rubber bands. A series of experiments were set up to determine which rubber band would exhibit the greatest temperature variation.
+<p align="justify">
+I studied an alternative to current refrigeration machines: elastocaloric cooling, induced by the application of stress on an elastomeric material. This work was based on theoretical considerations and a reference prototype, by considering the conformations of monomer chains to predict the behavior of rubber bands. A series of experiments were set up to determine which rubber band would exhibit the greatest temperature variation to maximize the efficiency of our prototype.
+</p>
 
-[Download the full report (PDF)](/documents/DA_COSTA-rubber_band_fridge.pdf)
+[Download the full report (in French)](/documents/DA_COSTA-rubber_band_fridge.pdf)
 
 <iframe src="/documents/DA_COSTA-rubber_band_fridge.pdf" width="100%" height="600px" style="border: none;">
     This browser does not support PDFs. Please download the PDF to view it: <a href="/documents/DA_COSTA-rubber_band_fridge.pdf">Download PDF</a>.
