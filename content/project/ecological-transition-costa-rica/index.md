@@ -1,6 +1,6 @@
 ---
-title: The ecological transition in Costa Rica
-summary: Fall 2024. Masters work.
+title: Ecological transition in Costa Rica
+summary: In French. Masters work.
 date: 2024-11-30
 math: true
 authors:

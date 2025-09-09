@@ -1,6 +1,6 @@
 ---
 title: Rubber bands refrigerator
-summary: Spring 2020. Undergraduate project.
+summary: In French. Undergraduate project.
 date: 2020-06-01
 math: true
 authors:
