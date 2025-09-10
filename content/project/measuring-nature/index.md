@@ -6,8 +6,9 @@ math: true
 authors:
   - admin
 tags:
+  - Ecological Economics
+  - Epistemology
   - Environmental Economics
-  - Ecology
 image:
   caption: ''
   preview_only: true
