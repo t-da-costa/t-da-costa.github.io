@@ -1,7 +1,7 @@
 ---
 title:  "3 variations on the DICE model"
 summary: Masters work.
-date: 2025-02-05
+date: 2024-11-29
 math: true
 authors:
   - admin
