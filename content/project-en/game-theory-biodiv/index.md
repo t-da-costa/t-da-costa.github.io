@@ -1,5 +1,5 @@
 ---
-title:  "Modeling common-pool resources: a game theory perspective"
+title:  "Game theory and common-pool resources modeling"
 summary: Masters work.
 date: 2025-01-07
 math: true
