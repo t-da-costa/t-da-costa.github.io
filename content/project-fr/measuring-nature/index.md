@@ -8,7 +8,7 @@ authors:
 tags:
   - Ecological Economics
   - Epistemology
-  - Environmental Economics
+  - Biodiversity Economics
 image:
   caption: ''
   preview_only: true
