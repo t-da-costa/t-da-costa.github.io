@@ -12,12 +12,11 @@ sections:
   - block: markdown
     content:
       title: Miscellaneous Projects
-      subtitle: A list of selected works done during my bachelors or masters
-      text: The first collection is written in English; the second in French.  
+      text: A list of selected works done during my bachelors or masters. The former are written in English; the latter in French.  
   - block: collection
     content:
      title: 
-     text: . 
+     text:
      filters:
        folders:
        - project-en
