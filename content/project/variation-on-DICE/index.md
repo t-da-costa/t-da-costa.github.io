@@ -14,7 +14,7 @@ image:
 ---
 
 <p align="justify">
-This note details the basic equations and assumptions on which DICE, the most standard IAM, is based, and explore how changing them can imply highly different results. Relying on Dietz \& Stern (2012), Moore \& Diaz (2015) and Grubb *et al.* (2021), we especially highlight how CBA-IAM can recommand strong mitigation policies.
+This note details the basic equations and assumptions on which DICE, the most standard IAM, is based, and explore how changing them can imply highly different results. Relying on Dietz & Stern (2012), Moore & Diaz (2015) and Grubb et al. (2021), we especially highlight how CBA-IAM can recommand strong mitigation policies.
 </p>
 
 [Download the full note](/documents/DA_COSTA-DICE.pdf)
