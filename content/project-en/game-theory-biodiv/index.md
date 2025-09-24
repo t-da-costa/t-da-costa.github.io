@@ -15,7 +15,8 @@ image:
 ---
 
 <p align="justify">
-To be filled / pdf needed to be changed.
+This note provides an overview of game-theoretic approaches to managing common-pool fisheries resources, emphasizing the strategic interactions among agents and their
+implications for ecosystem sustainability. It underscores the need for coalition stability, legally binding agreements, and innovative policy tools to reconcile economic objectives with biodiversity conservation in global fisheries management.
 </p>
 
 [Download the full note](/documents/DA_COSTA-DICE.pdf)
