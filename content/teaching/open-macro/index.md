@@ -8,7 +8,7 @@ authors:
 tags:
   - Macroeconomics
   - Course
-  - Undergraduates
+  - Undergraduate
 image:
   caption: ''
   preview_only: true

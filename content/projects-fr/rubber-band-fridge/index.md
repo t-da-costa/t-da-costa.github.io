@@ -7,8 +7,8 @@ authors:
   - admin
 tags:
   - Statistical Physics
-  - Engeneering
-  - Bachelor project
+  - Engineering
+  - Undergraduate
 image:
   caption: ''
   preview_only: true

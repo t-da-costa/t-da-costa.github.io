@@ -19,7 +19,7 @@ sections:
      text:
      filters:
        folders:
-       - project-en
+       - projects-en
     design:
      view: article-grid
      fill_image: false
@@ -30,7 +30,7 @@ sections:
      text:
      filters:
        folders:
-       - project-fr
+       - projects-fr
     design:
      view: article-grid
      fill_image: false
