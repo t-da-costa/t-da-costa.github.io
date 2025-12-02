@@ -5,8 +5,14 @@
     justify-content: center;
   }
 
+  /* Expand the column that holds the avatar (override the tiny Tailwind width) */
+  .blox-resume-biography-3 .resume-biography > .flex-none {
+    min-width: 760px !important;
+    max-width: 760px !important;
+  }
+
   .blox-resume-biography-3 .avatar-wrapper img.avatar {
-    width: 720px;
+    width: 720px !important;
     aspect-ratio: 1 / 1; /* square frame */
     height: auto;
     object-fit: cover;
@@ -25,8 +31,12 @@
   }
 
   @media (max-width: 768px) {
+    .blox-resume-biography-3 .resume-biography > .flex-none {
+      min-width: 540px !important;
+      max-width: 540px !important;
+    }
     .blox-resume-biography-3 .avatar-wrapper img.avatar {
-      width: 520px;
+      width: 520px !important;
     }
     .blox-resume-biography-3 .resume-biography {
       gap: 2rem;
