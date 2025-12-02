@@ -1,0 +1,16 @@
+<style>
+  /* Override the default small circular avatar in the biography block */
+  .blox-resume-biography-3 .avatar-wrapper img.avatar {
+    width: 300px;
+    aspect-ratio: 4 / 5; /* vertical-ish 5:4 feel */
+    height: auto;
+    object-fit: cover;
+    border-radius: 12px !important; /* soften corners instead of full circle */
+  }
+
+  @media (max-width: 768px) {
+    .blox-resume-biography-3 .avatar-wrapper img.avatar {
+      width: 220px;
+    }
+  }
+</style>
