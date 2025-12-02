@@ -39,7 +39,7 @@ profiles:
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/thomas-da-costa-6b52a519a/
+    url: https://www.linkedin.com/in/thomas-orlando-da-costa/
     label: LinkedIn
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=hcNgESkAAAAJ&hl=fr
@@ -58,7 +58,7 @@ profiles:
 interests:
   - Ecological Economics
   - Environmental Economics
-  - (Non-Linear) Physics
+  - Complex Systems
   - Behavioral Sciences
 
 education:
@@ -98,7 +98,7 @@ education:
 
 work:
 
-  - position: Intern in Environmental Economics
+  - position: Research work in Environmental Economics
     company_name: Organisation for Economic Co-operation and Development (OECD)
     company_url: 'https://www.oecd.org/'
     company_logo: /uploads/images/oecd-logo.JPG
@@ -107,7 +107,7 @@ work:
     summary: |2-
       Under the supervision of Fabrice Murtin (Centre on Well-Being, Inclusion, Sustainability and Equal Opportunities — WISE).
 
-  - position: Intern in Environmental Economics
+  - position: Research work in Environmental Economics
     company_name: Paris School of Economics
     company_url: 'https://www.parisschoolofeconomics.eu/'
     company_logo: /uploads/images/Logo_PSE.png
@@ -116,7 +116,7 @@ work:
     summary: |2-
       Under the supervision of Prof. Marc Fleurbaey (CNRS).
 
-  - position: Intern in Environmental Psychology
+  - position: Research work in Environmental Psychology
     company_name: Georgetown Environmental Justice Program
     company_url: 'https://earthcommons.georgetown.edu/home/georgetown-environmental-justice-program/'
     company_logo: /uploads/images/logo_GU_EJP.png
@@ -125,7 +125,7 @@ work:
     summary: |
       Under the supervision of Prof. Corinne Robert and Pauline Smith (PhD).
 
-  - position: Intern in Experimental Psychology
+  - position: Research work in Experimental Psychology
     company_name: Paris Brain Institute
     company_url: 'https://parisbraininstitute.org/'
     company_logo: 
@@ -134,7 +134,7 @@ work:
     summary: |
       Under the supervision of Liane Schmidt (INSERM).
 
-  - position: Intern in Plasma Physics
+  - position: Research work in Plasma Physics
     company_name: Laboratoire de Physique des Plasmas
     company_url: 'https://www.lpp.polytechnique.fr/?lang=en'
     company_logo: 
