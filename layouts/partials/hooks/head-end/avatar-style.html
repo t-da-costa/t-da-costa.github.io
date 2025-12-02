@@ -3,44 +3,27 @@
   .blox-resume-biography-3 .avatar-wrapper {
     display: flex;
     justify-content: center;
-  }
-
-  /* Expand the column that holds the avatar (override the tiny Tailwind width) */
-  .blox-resume-biography-3 .resume-biography > .flex-none {
-    min-width: 760px !important;
-    max-width: 760px !important;
+    width: clamp(240px, 45vw, 360px);  /* ~2x the original size, responsive */
+    height: clamp(240px, 45vw, 360px);
   }
 
   .blox-resume-biography-3 .avatar-wrapper img.avatar {
-    width: 720px !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-width: none !important;
+    max-height: none !important;
     aspect-ratio: 1 / 1; /* square frame */
-    height: auto;
     object-fit: cover;
     object-position: center;
-    border-radius: 5px !important;
+    border-radius: 8px !important;
     padding: 0.15rem; /* thinner frame */
+    display: block;
   }
 
-  /* Prevent overlap with the text column by adding space to the right-hand block */
+  /* Prevent overlap with the text column by adding space between columns */
   .blox-resume-biography-3 .resume-biography {
     align-items: flex-start;
-    gap: 3rem;
-  }
-  .blox-resume-biography-3 .resume-biography > .flex-auto {
-    margin-top: 1rem;
-  }
-
-  @media (max-width: 768px) {
-    .blox-resume-biography-3 .resume-biography > .flex-none {
-      min-width: 540px !important;
-      max-width: 540px !important;
-    }
-    .blox-resume-biography-3 .avatar-wrapper img.avatar {
-      width: 520px !important;
-    }
-    .blox-resume-biography-3 .resume-biography {
-      gap: 2rem;
-    }
+    gap: 2.5rem;
   }
 </style>
 
