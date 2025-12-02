@@ -5,6 +5,7 @@
     justify-content: center;
     width: clamp(162px, 30vw, 242px);  /* slightly reduced (~0.8x of previous) */
     height: clamp(162px, 30vw, 242px); /* slightly reduced (~0.8x of previous) */
+    margin-top: 0 !important; /* override theme mt-10 */
   }
 
   .blox-resume-biography-3 .avatar-wrapper img.avatar {
@@ -24,6 +25,10 @@
   .blox-resume-biography-3 .resume-biography {
     align-items: flex-start;
     gap: 2.5rem;
+  }
+  /* Align text with top of the avatar */
+  .blox-resume-biography-3 .resume-biography > .flex-auto {
+    margin-top: 0 !important; /* override md:mt-12 */
   }
 </style>
 
