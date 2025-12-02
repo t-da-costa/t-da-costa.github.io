@@ -221,7 +221,7 @@ work:
 ---
 <style>
 /* reduce vertical gap above the first heading on this page */
-h2:first-of-type { margin-top: 0.23rem; }
+h2:first-of-type { margin-top: 0.32rem; }
 </style>
 ## Welcome on this page!
 
