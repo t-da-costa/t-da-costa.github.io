@@ -5,7 +5,6 @@
     justify-content: center;
     width: clamp(162px, 30vw, 242px);  /* slightly reduced (~0.8x of previous) */
     height: clamp(162px, 30vw, 242px); /* slightly reduced (~0.8x of previous) */
-    margin-top: 0 !important; /* override theme mt-10 */
   }
 
   .blox-resume-biography-3 .avatar-wrapper img.avatar {
@@ -26,9 +25,9 @@
     align-items: flex-start;
     gap: 2.5rem;
   }
-  /* Align text with top of the avatar */
+  /* Align text block with the top of the avatar (match the avatar's default top offset) */
   .blox-resume-biography-3 .resume-biography > .flex-auto {
-    margin-top: 0 !important; /* override md:mt-12 */
+    padding-top: 2.5rem; /* Tailwind mt-10 is 2.5rem */
   }
 </style>
 
