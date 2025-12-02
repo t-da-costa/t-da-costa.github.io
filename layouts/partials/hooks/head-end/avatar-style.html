@@ -1,16 +1,48 @@
 <style>
-  /* Override the default small circular avatar in the biography block */
+  /* Enlarge and reshape the avatar while keeping it centered */
+  .blox-resume-biography-3 .avatar-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+
   .blox-resume-biography-3 .avatar-wrapper img.avatar {
-    width: 300px;
-    aspect-ratio: 4 / 5; /* vertical-ish 5:4 feel */
+    width: 360px;
+    aspect-ratio: 1 / 1; /* square frame */
     height: auto;
     object-fit: cover;
-    border-radius: 12px !important; /* soften corners instead of full circle */
+    object-position: center;
+    border-radius: 10px !important;
+    padding: 0.15rem; /* thinner frame */
+  }
+
+  /* Prevent overlap with the text column by adding space to the right-hand block */
+  .blox-resume-biography-3 .resume-biography {
+    align-items: flex-start;
+    gap: 3rem;
+  }
+  .blox-resume-biography-3 .resume-biography > .flex-auto {
+    margin-top: 1rem;
   }
 
   @media (max-width: 768px) {
     .blox-resume-biography-3 .avatar-wrapper img.avatar {
-      width: 220px;
+      width: 260px;
+    }
+    .blox-resume-biography-3 .resume-biography {
+      gap: 2rem;
     }
   }
 </style>
+
+<script>
+  // Swap in the full-resolution avatar to avoid the low-res generated thumb
+  document.addEventListener('DOMContentLoaded', () => {
+    const img = document.querySelector('.blox-resume-biography-3 .avatar-wrapper img.avatar');
+    if (!img) return;
+    img.src = '/author/thomas-orlando-da-costa/avatar.jpg';
+    img.removeAttribute('width');
+    img.removeAttribute('height');
+    img.loading = 'eager';
+    img.decoding = 'sync';
+  });
+</script>
