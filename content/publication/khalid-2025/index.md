@@ -22,10 +22,10 @@ summary: I studied how experiencing the COVID-19 pandemic affected optimism bias
 tags:
 - Experimental Psychology
 
-doi: 10.7554/elife.101157.2
+doi: 10.7554/elife.101157
 links:
 - name: URL
-  url: http://dx.doi.org/10.7554/eLife.101157.2
+  url: https://doi.org/10.7554/elife.101157
   # url_pdf: http://arxiv.org/pdf/1512.04133v1
   # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
   # url_dataset: '#'
