@@ -230,6 +230,5 @@ I am currently a <strong>visiting research student</strong> in the <a href="http
 </p>
 
 <p align="justify">
-I have an interdisciplinary background, ranging from <strong>physics</strong> and
-<strong>mechanics</strong> (BSc.) to <strong>economics</strong> and <strong>cognitive sciences</strong> (MSc.). My research interests build on this diversity and include dynamic macroeconomics or various topics in ecological economics, notably methods to integrate biodiversity and strong durability into models. I am also interested in boundedness in behavioral economics and uncertainty in modelling.
+I have an interdisciplinary background, ranging from <strong>physics</strong> and <strong>mechanics</strong> (BSc.) to <strong>economics</strong> and <strong>cognitive sciences</strong> (MSc.). My research interests build on this diversity and include various topics in ecological economics, notably methods to integrate biodiversity/nature into macroeconomics models.
 </p>
