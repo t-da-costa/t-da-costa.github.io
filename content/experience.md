@@ -18,7 +18,7 @@ sections:
       buttons:
         - text: All the courses I've taken
           icon: hero/academic-cap
-          url: /documents/list_courses.pdf # English version
+          url: /documents/list_courses-biodiv-econ.pdf # English version
     design:
       spacing:
         margin-bottom: -5rem
